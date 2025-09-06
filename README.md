@@ -32,5 +32,4 @@ The notebook covers dataset preprocessing, model training, evaluation, and featu
 - **Scikit-learn** – Machine learning (Random Forest, metrics)
 
 ---
-   git clone https://github.com/<your-username>/Random-Forest-Classifier-Implementation.git
-   cd Random-Forest-Classifier-Implementation
+  
